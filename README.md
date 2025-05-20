@@ -30,6 +30,7 @@ Sistema backend para la gestión de:
 - Redis 7+
 
 ## 📚 Estructura del Proyecto
+
 src/
 ├── main/
 │   ├── java/com/universidad/
