@@ -30,7 +30,7 @@ Sistema backend para la gestión de:
 - Redis 7+
 
 ## 📚 Estructura del Proyecto
-
+```
 src/
 ├── main/
 │   ├── java/com/universidad/
@@ -46,7 +46,7 @@ src/
 │   └── resources/
 │       ├── application.properties
 │       └── application-dev.properties
-
+```
 ## 🔐 Roles y Accesos
 Rol	Permisos	Endpoints Clave
 ADMIN	Full access	Todos
